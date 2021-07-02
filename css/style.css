@@ -1,0 +1,49 @@
+.flex1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/firstview.jpg");
+  background-repeat: no-repeat;
+  height: 500px;
+}
+.flex__child1 {
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.flex2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
